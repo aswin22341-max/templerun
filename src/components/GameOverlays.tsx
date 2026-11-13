@@ -115,6 +115,13 @@ export const MainMenu: React.FC<MainMenuProps> = ({
             </button>
           </div>
         </div>
+
+        <div className="mt-5 border-t border-stone-700/60 pt-3.5 text-xs text-stone-400">
+          <span className="text-stone-500">Developers: </span>
+          <span className="font-medium text-stone-200">Eshaal fathima 4th C</span>
+          <span aria-hidden="true" className="mx-1.5 text-stone-600">·</span>
+          <span className="font-medium text-stone-200">Linda prasad 4th C</span>
+        </div>
       </div>
     </div>
   );
