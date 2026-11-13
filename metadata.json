@@ -1,0 +1,6 @@
+{
+  "name": "Temple Adventure",
+  "description": "A 3D endless runner adventure through ancient jungle ruins, perilous traps, and crumbling temple bridges while outrunning a relentless guardian beast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
